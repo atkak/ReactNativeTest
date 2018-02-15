@@ -20,6 +20,10 @@
   version "22.1.2"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-22.1.2.tgz#813a79ec98221633845627636dbc606f31220dbc"
 
+"@types/node@^9.4.6":
+  version "9.4.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.4.6.tgz#d8176d864ee48753d053783e4e463aec86b8d82e"
+
 "@types/react-native@^0.52.9":
   version "0.52.9"
   resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.52.9.tgz#01b166d9972dbee73582f9b60f6e126ed4d426ba"
